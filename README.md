@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvinder</h1>
 <h3 align="center">A frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **JS, Angular, Typescript**
+- 🌱 I’m currently learning **Fullstack Developer**
 
 - 📫 How to reach me **drojjinarvinder@gmail.com**
 
