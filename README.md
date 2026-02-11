@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvinder</h1>
-<h3 align="center">A frontend developer from Germany</h3>
+<h3 align="center">A Back-End developer from Germany</h3>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 📫 How to reach me **drojjinarvinder@gmail.com**
 
