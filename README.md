@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Full-Stack developer from Germany</p>
+<p align="left">A Front-End developer from Germany</p>
 
 ###
 
